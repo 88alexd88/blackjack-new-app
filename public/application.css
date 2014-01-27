@@ -1,0 +1,73 @@
+form#hit_form {
+  float: left;
+  margin-right: 10px;
+
+}
+
+form#stay_form {
+  float: left;
+
+}
+
+img.card_image {
+  margin: 0px 5px 5px 0px;
+}
+
+.new_player-center {
+  text-align: center;
+  margin: 25px auto 0px auto;
+
+}
+
+input.btn.btn-primary {
+  width: 220px;
+  text-align: center;
+  margin: -3px 3px 0px -1px;
+}
+
+.output p {
+  margin:0px 0px 0px 50px;
+
+}
+
+body {
+  background-color: lightslategray;
+}
+
+.navbar .nav>li {
+  margin: 0px 418px;
+}
+
+div.title {
+  text-align: center;
+  margin-top: 50px;
+}
+
+div.title h1 {
+  color: white;
+
+}
+
+p.rules {
+  text-align: center;
+  margin: 10px 240px 0px 240px;
+
+}
+
+div.well {
+  margin: 5px 50px 0px 50px;
+}
+
+.choices {
+  margin: 10px 0px 0px 50px ;
+  float:left;
+  clear:both;
+
+}
+
+.over{
+
+text-align: center;
+margin: 0px 240px;
+
+}
