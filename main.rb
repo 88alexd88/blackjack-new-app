@@ -43,7 +43,7 @@ helpers do
         when 'J' then 'jack'
         when 'Q' then 'queen'
         when 'K' then 'king'
-        when 'A' then 'Ace'
+        when 'A' then 'ace'
       end
     end
 
